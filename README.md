@@ -70,6 +70,8 @@ endmodule
 
 _____ Keep Simulated output ___________
 
+RESULT:
+![Screenshot 2025-03-17 143019](https://github.com/user-attachments/assets/4661fe03-a262-4c5c-8a1f-2bbf43af33fc)
 
 ## Testbench for Seven-Segment Display
 ```verilog
